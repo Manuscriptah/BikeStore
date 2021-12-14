@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BikeStore</string>
+    <string name="mainSearchButton">Search</string>
+    <string name="mainOrderHistoryButton">Order History</string>
+    <string name="mainCancelOrderButton">Cancel Order</string>
+    <string name="mainAdminButton">Admin</string>
+    <string name="mainSignOutButton">Signout</string>
+    <string name="logout">logout</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Buy">Buy</string>
+    <string name="SearchSearchButton">Search</string>
+    <string name="EnterPart">Enter Part</string>
+    <string name="SearchforParts">Search for Parts</string>
+    <string name="WelcomeAdminMenu">"Welcome "</string>
+    <string name="adminToDoText">What would you like to do?</string>
+    <string name="adminAddanItemButton">Add an Item</string>
+    <string name="adminViewExistingItemsButton">View Existing Items</string>
+    <string name="adminRemoveanItemButton">Remove An Item</string>
+    <string name="adminViewExistingUsersButton">View Existing Users</string>
+    <string name="backButton"><![CDATA[<--]]></string>
+
+</resources>
